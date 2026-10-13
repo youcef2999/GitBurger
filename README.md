@@ -1,13 +1,13 @@
-GitBurger
+<h1>GitBurger</h1>  
 
-Bienvenue chez GitBurger !
+Bienvenue chez **GitBurger** !
 
-Découvrez notre recette de hamburger maison.
+Découvrez <h2>notre recette</h2> de hamburger maison.
 
-Notre recette
+## Notre recette
 
-Pain burger
-Steak
-Salade
-Tomate
-Fromage
+- Pain burger
+- Steak
+- Salade
+- Tomate
+- Fromage
